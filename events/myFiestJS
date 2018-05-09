@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<HTML>
+
+
+<BODY>
+<script>
+myFunction(){
+    document.getElementById("demo");
+}
+
+</script>
+<p Id='demo'>This will change</p>
+<button onclick="myFunction()">click here</button>
+</BODY>
+</HTML>
